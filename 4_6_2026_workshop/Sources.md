@@ -2,6 +2,7 @@
 
 ## Objective
 Introduce members to Pandas filtering, aggregation
+
 Introduce members to Plotly graphing
 
 ## Original Sources
