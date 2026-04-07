@@ -1,0 +1,15 @@
+# Tech Layoffs 2026 Analysis Workshop - Required Dependencies
+# Political Computer Science Meeting - Pandas Workshop
+
+# Core data analysis libraries
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Jupyter notebook environment
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# Optional but recommended
+matplotlib>=3.7.0  # For optional visualizations if students want to explore
+w
